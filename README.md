@@ -1,8 +1,4 @@
-<p align="center">
-  # Hello, World!
-</p>
-
-
+<p align="center">Hello, World!</p>
 
 I was inspired to code by my math teacher at the University of Michigan. She was a petite Black woman like me and she **owned** each explanation she gave. Her lessons were clear and her teaching was patient. I strive do be those things as I create with a keyboard.
 
